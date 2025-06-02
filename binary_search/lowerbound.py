@@ -38,7 +38,6 @@ def lower(arr, target):
             high = mid - 1        
         else:
             low = mid + 1         
-
     return result
 
 arr=[1,4,6,8,9,11,16,119]
