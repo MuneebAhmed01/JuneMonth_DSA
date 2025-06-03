@@ -1,4 +1,4 @@
-
+#Find minimum elem in array(array can be rotated)
 def small(arr):
     start=0
     end=len(arr)-1

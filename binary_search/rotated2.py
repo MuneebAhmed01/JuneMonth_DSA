@@ -1,3 +1,4 @@
+#find elem in rotated array containing dublicate and return True false
 def rotate(arr,target):
     start=0
     end=len(arr)-1

@@ -1,3 +1,4 @@
+#find floor and ceil of element in array
 def search(arr,target):
    start=0
    end=len(arr)-1

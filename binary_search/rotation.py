@@ -1,3 +1,4 @@
+#count number of rotation in arry
 def rotate(arr):
     start=0
     end=len(arr)-1

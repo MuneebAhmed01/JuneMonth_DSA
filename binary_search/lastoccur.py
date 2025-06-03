@@ -1,3 +1,4 @@
+#find the last occurance of element in array
 def occur(arr,target):
     start=0
     end=len(arr)-1
@@ -17,6 +18,6 @@ def occur(arr,target):
     return res
 
 
-arr=[1,3,4,13,13,14,15,15,18,19,20]
+arr=[1,3,4,13,13,14,14,14,15,15,18,19,20]
 target=14
 print(occur(arr,target))

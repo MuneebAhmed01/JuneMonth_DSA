@@ -1,3 +1,5 @@
+# Count number of occurance of element in array
+
 def occur(arr,target):
     start=0
     end=len(arr)-1

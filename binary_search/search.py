@@ -1,3 +1,4 @@
+#Search element through binary
 def search(arr,target):
    start=0
    end=len(arr)-1

@@ -25,7 +25,7 @@
 
 
 
-
+#to find lower Bound of element,The lower bound is the smallest index, ind, where arr[ind] >= x.
 def lower(arr, target):
     low = 0
     high = len(arr) - 1

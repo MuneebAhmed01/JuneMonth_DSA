@@ -1,3 +1,5 @@
+
+#FInd element in rotated arry
 def rotate(arr,target):
     start=0
     end=len(arr)-1

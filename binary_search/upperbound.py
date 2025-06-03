@@ -1,3 +1,4 @@
+#TO find upper bound,The upper bound is the smallest index, ind, where arr[ind] > x.
 def upper(arr,n):
     low=0
     high=len(arr)-1
